@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-10T13:35:55-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aanand Bajaj</title><subtitle>Personal Blog</subtitle><author><name>Aanand Bajaj</name></author><entry><title type="html">Us versus Them</title><link href="http://localhost:4000/blog/blogpost.html" rel="alternate" type="text/html" title="Us versus Them" /><published>2021-01-09T00:00:00-05:00</published><updated>2021-01-09T00:00:00-05:00</updated><id>http://localhost:4000/blog/blogpost</id><content type="html" xml:base="http://localhost:4000/blog/blogpost.html">&lt;p&gt;The history of the human species is incredible. We went from coming out of the cave for the first time to building gigantic cities. We went from this [1]:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-10T13:36:32-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aanand Bajaj</title><subtitle>Personal Blog</subtitle><author><name>Aanand Bajaj</name></author><entry><title type="html">Us versus Them</title><link href="http://localhost:4000/blog/blogpost.html" rel="alternate" type="text/html" title="Us versus Them" /><published>2021-01-09T00:00:00-05:00</published><updated>2021-01-09T00:00:00-05:00</updated><id>http://localhost:4000/blog/blogpost</id><content type="html" xml:base="http://localhost:4000/blog/blogpost.html">&lt;p&gt;The history of the human species is incredible. We went from coming out of the cave for the first time to building gigantic cities. We went from this [1]:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000//assets/img/cavemen.jpg&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 
@@ -39,7 +39,7 @@
   &lt;li&gt;The ‘Great Powers’ fought one another almost all the time during the 1500s, leading to an inconceivable amount of destruction due to warfare (as seen in the chart below) [6]&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;{ site.url }}//assets/img/warchart.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000//assets/img/warchart.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;A natural question that stems from these statistics is why do humans commit these acts? Humans in the past have not only colonized/enslaved other humans for power/economic purposes, they have also savagely tortured other humans, which seems excessive in hindsight.&lt;/p&gt;
 
@@ -59,7 +59,7 @@
 
 &lt;p&gt;The brain is neurochemically programmed, through evolution, to seek pleasure. This is accomplished through a neurotransmitter called dopamine. There are two parts of the brain that produce dopamine. One area, called the subtantia nigra helps humans with movement and speech. The more relevant for this article is dopamine produced in the other region, the ventral tegmental area. An image of the brain with these two areas is highlighted below [9,10]:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;{ site.url }}//assets/img/brain.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000//assets/img/brain.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This area sends dopamine into the brain when we expect or receive a reward, and this tells the brain to get more of whatever it is it just experienced. This process effectively drives the behavior of humans to continuously keep doing a certain task. Dopamine is what is released in large quantities when humans intake drugs, such as cocaine, nicotine, and heroin, which keeps them coming back for more. Even though drugs may be harmful for the individual in the long-term, the strength of this reward system can lead to drug addiction [11].&lt;/p&gt;
 
