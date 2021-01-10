@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Text Formatting Examples"
+subject: "Random"
 author: "Paul Le"
+date: 2014-01-01
 categories: journal
 tags: [documentation,sample]
 ---

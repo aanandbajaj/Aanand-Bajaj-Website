@@ -1,421 +1,174 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-01-16T23:26:29-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aanand Bajaj</title><subtitle>Personal Blog</subtitle><author><name>Aanand Bajaj</name></author><entry><title type="html">Text Formatting Examples</title><link href="http://localhost:4000/journal/text-formatting-examples.html" rel="alternate" type="text/html" title="Text Formatting Examples" /><published>2014-01-01T00:00:00-05:00</published><updated>2014-01-01T00:00:00-05:00</updated><id>http://localhost:4000/journal/text-formatting-examples</id><content type="html" xml:base="http://localhost:4000/journal/text-formatting-examples.html">&lt;h4 id=&quot;markdown-support&quot;&gt;Markdown Support&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-10T13:03:53-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Aanand Bajaj</title><subtitle>Personal Blog</subtitle><author><name>Aanand Bajaj</name></author><entry><title type="html">Us versus Them</title><link href="http://localhost:4000/blog/blogpost.html" rel="alternate" type="text/html" title="Us versus Them" /><published>2021-01-09T00:00:00-05:00</published><updated>2021-01-09T00:00:00-05:00</updated><id>http://localhost:4000/blog/blogpost</id><content type="html" xml:base="http://localhost:4000/blog/blogpost.html">&lt;h1 id=&quot;us-vs-them---a-neuroscience-perspective&quot;&gt;Us vs. Them - A Neuroscience Perspective&lt;/h1&gt;
 
-&lt;p&gt;As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Markdown syntax&lt;/a&gt;. Examples of these text formatting features can be seen below. You can find this post in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory.&lt;/p&gt;
+&lt;p&gt;The history of the human species is incredible. We went from coming out of the cave for the first time to building gigantic cities. We went from this [1]:&lt;/p&gt;
 
-&lt;h4 id=&quot;basic-formatting&quot;&gt;Basic Formatting&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/cavemen.jpg&quot; alt=&quot;alt text&quot; title=&quot;cavemen&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;With Markdown, it is possible to emphasize words by making them &lt;em&gt;italicized&lt;/em&gt;, using &lt;em&gt;astericks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;, or making them &lt;strong&gt;bold&lt;/strong&gt;, using &lt;strong&gt;double astericks&lt;/strong&gt; or &lt;strong&gt;double underscores&lt;/strong&gt;. Of course, you can combine those two formats, with both &lt;em&gt;&lt;strong&gt;bold and italicized&lt;/strong&gt;&lt;/em&gt; text, using any combination of the above syntax. You can also add a strikethrough to text using a &lt;del&gt;double tilde&lt;/del&gt;.&lt;/p&gt;
+&lt;p&gt;To this [2]:&lt;/p&gt;
 
-&lt;h4 id=&quot;paragraphs&quot;&gt;Paragraphs&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/city.jpg&quot; alt=&quot;alt text&quot; title=&quot;city&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;This is what a paragraph looks like. For the purpose of demonstration, the rest of this paragraph and the next paragraph after will mean absolutely nothing. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+&lt;p&gt;We did all this in just 10,000 years, which is approximately a blip when it comes to the timeline of the Earth. To put that into clearer perspective, if you “squish” the entire history of Earth into a calendar year, with January 1st being when the Earth was formed and December 31st being today, human beings first walked the planet at 11:36 PM on December 31st [3].&lt;/p&gt;
 
-&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+&lt;p&gt;However, humanity’s history also has a dark side. Throughout history, wars between humans have ravaged entire civilizations and societies. For centuries, philosophers and historians have tried to determine what drives the barbaric nature of humans that has been witnessed and recorded in the past. Some notorious examples of these violent incidents includes medieval machines to torture humans and the more recent Holocaust and Rwandan Genocides.&lt;/p&gt;
 
-&lt;h4 id=&quot;headings&quot;&gt;Headings&lt;/h4&gt;
-
-&lt;p&gt;Sometimes it is useful to have different levels of headings to structure your documents. Start lines with &lt;code class=&quot;highlighter-rouge&quot;&gt;#&lt;/code&gt; to create headings. Multiple &lt;code class=&quot;highlighter-rouge&quot;&gt;##&lt;/code&gt; in a row denote smaller heading size. The following demonstrate the full range of heading sizes:&lt;/p&gt;
-
-&lt;h1 id=&quot;heading-one-h1&quot;&gt;Heading One (h1)&lt;/h1&gt;
-
-&lt;h2 id=&quot;heading-two-h2&quot;&gt;Heading Two (h2)&lt;/h2&gt;
-
-&lt;h3 id=&quot;heading-three-h3&quot;&gt;Heading Three (h3)&lt;/h3&gt;
-
-&lt;h4 id=&quot;heading-four-h4&quot;&gt;Heading Four (h4)&lt;/h4&gt;
-
-&lt;h5 id=&quot;heading-five-h5&quot;&gt;Heading Five (h5)&lt;/h5&gt;
-
-&lt;h6 id=&quot;heading-six-h6&quot;&gt;Heading Six (h6)&lt;/h6&gt;
-
-&lt;h4 id=&quot;links&quot;&gt;Links&lt;/h4&gt;
-
-&lt;p&gt;You can create an inline link by wrapping link text in square brackets &lt;code class=&quot;highlighter-rouge&quot;&gt;[ ]&lt;/code&gt;, and then wrapping the URL in parentheses &lt;code class=&quot;highlighter-rouge&quot;&gt;( )&lt;/code&gt;. For example, it is very easy to &lt;a href=&quot;http://google.com&quot;&gt;link to Google!&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h4&gt;
-
-&lt;p&gt;Blockquotes are useful for denoting quotes, or highlighting a large block of text. Single line blockquote:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This quote will change your life.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Multi line blockquote with a cite reference:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;code-and-syntax-highlighting&quot;&gt;Code and Syntax Highlighting&lt;/h4&gt;
-
-&lt;p&gt;Code blocks are part of the Markdown spec, but syntax highlighting isn’t. However, many renderers - like GitHub or most Jekyll themes - support syntax highlighting. Which languages are supported and how those language names should be written will vary from renderer to renderer. You can find the full list of supported programming languages &lt;a href=&quot;https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers&quot;&gt;here&lt;/a&gt;. Also, it is possible to do &lt;code class=&quot;highlighter-rouge&quot;&gt;inline code blocks&lt;/code&gt;, by wrapping the text in ` ` ` quotations.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;No language indicated, so no syntax highlighting.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;return a + b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Another option is to embed your code through &lt;a href=&quot;https://en.support.wordpress.com/gist/&quot;&gt;Gist&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;images&quot;&gt;Images&lt;/h4&gt;
-
-&lt;p&gt;To add an image, use &lt;code class=&quot;highlighter-rouge&quot;&gt;![alt text](&amp;lt;Image url&amp;gt; &quot;Image meta title&quot;)&lt;/code&gt;:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://noirve.com/wp-content/uploads/2013/10/DTTSP_Coffee.jpg&quot; alt=&quot;alt text&quot; title=&quot;Example&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;unordered-and-numbered-lists&quot;&gt;Unordered and Numbered Lists&lt;/h4&gt;
-
-&lt;p&gt;You can make an unordered and nested list by preceding one or more lines of text with &lt;code class=&quot;highlighter-rouge&quot;&gt;-&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;*&lt;/code&gt;, or &lt;code class=&quot;highlighter-rouge&quot;&gt;+&lt;/code&gt;, and indenting sublists. The following lists show the full range of possible list formats.&lt;/p&gt;
+&lt;p&gt;The fact that these violent stories have persisted throughout history means that it is worth examining whether tribalism and the associated violence is innate in human nature. The topics I will try to cover in this article include:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;List item one
-    &lt;ul&gt;
-      &lt;li&gt;List item one
-        &lt;ul&gt;
-          &lt;li&gt;List item one&lt;/li&gt;
-          &lt;li&gt;List item two&lt;/li&gt;
-          &lt;li&gt;List item three&lt;/li&gt;
-          &lt;li&gt;List item four&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;List item two&lt;/li&gt;
-      &lt;li&gt;List item three&lt;/li&gt;
-      &lt;li&gt;List item four&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;List item two&lt;/li&gt;
-  &lt;li&gt;List item three&lt;/li&gt;
-  &lt;li&gt;List item four&lt;/li&gt;
+  &lt;li&gt;Why is this even interesting?&lt;/li&gt;
+  &lt;li&gt;Looking back at the data about human violence&lt;/li&gt;
+  &lt;li&gt;Why do humans commit these violent acts?&lt;/li&gt;
+  &lt;li&gt;Has violence decreased overtime?&lt;/li&gt;
+  &lt;li&gt;Is the fate of the human race sealed? Is the idea of “unity” appealing?&lt;/li&gt;
+  &lt;li&gt;What are the implications for modern day society?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Numbered lists are made by using numbers instead of bullet points.&lt;/p&gt;
+&lt;h2 id=&quot;why-is-this-interesting&quot;&gt;Why is this Interesting?&lt;/h2&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;List item one
-    &lt;ol&gt;
-      &lt;li&gt;List item one
-        &lt;ol&gt;
-          &lt;li&gt;List item one&lt;/li&gt;
-          &lt;li&gt;List item two&lt;/li&gt;
-          &lt;li&gt;List item three&lt;/li&gt;
-          &lt;li&gt;List item four&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;List item two&lt;/li&gt;
-      &lt;li&gt;List item three&lt;/li&gt;
-      &lt;li&gt;List item four&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;List item two&lt;/li&gt;
-  &lt;li&gt;List item three&lt;/li&gt;
-  &lt;li&gt;List item four&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;One of the reasons why exploring this topic is interesting is because humans commit acts of violence at astoundingly rapid speeds. For example, during World War II, 85 million people died in less than a decade.&lt;/p&gt;
 
-&lt;h4 id=&quot;mathjax-example&quot;&gt;MathJax Example&lt;/h4&gt;
+&lt;p&gt;Noticeably, all of these events (wars, genocides, etc.) in history are always preceded by a “classification event” where humans “group” themselves. This can mean countries, societies, cultures, etc. In other words, before groups of humans become aggressive with each other, they seem to classify themselves into “tribes.”&lt;/p&gt;
 
-&lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation&quot;&gt;Schrödinger equation&lt;/a&gt; is a partial differential equation that describes how the quantum state of a quantum system changes with time:&lt;/p&gt;
+&lt;p&gt;This is especially relevant because we see this everywhere today, from capitalism vs. socialism, to democrats vs. republicans, to casteism, religion, and so on.&lt;/p&gt;
 
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t)&lt;/script&gt;
+&lt;h3 id=&quot;lets-look-at-the-data&quot;&gt;Let’s look at the data&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Joseph-Louis_Millennial&quot;&gt;Joseph-Louis Millennial&lt;/a&gt; was an Italian mathematician and astronomer who was responsible for the formulation of Lagrangian mechanics, which is a reformulation of Newtonian mechanics.&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac {\partial  L}{\partial \dot{q}_j} \right ) =  \frac {\partial L}{\partial q_j}&lt;/script&gt;
-
-&lt;h4 id=&quot;tables&quot;&gt;Tables&lt;/h4&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Title 1&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Title 2&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Title 3&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Title 4&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;lorem ipsum&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h4 id=&quot;embedding&quot;&gt;Embedding&lt;/h4&gt;
-
-&lt;p&gt;Plenty of social media sites offer the option of embedding certain parts of their site on your own site, such as YouTube and Twitter:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mthtn1X4eUY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;a class=&quot;twitter-grid&quot; data-partner=&quot;tweetdeck&quot; href=&quot;https://twitter.com/paululele/timelines/755079130027352064&quot;&gt;New Collection&lt;/a&gt; &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h4&gt;
-
-&lt;p&gt;HTML defines a long list of available inline tags, which you can mix with Markdown if you like. A complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;horizontal-rule&quot;&gt;Horizontal Rule&lt;/h4&gt;
-
-&lt;p&gt;Can be created by having three or more hyphens &lt;code class=&quot;highlighter-rouge&quot;&gt;---&lt;/code&gt;, asterisks &lt;code class=&quot;highlighter-rouge&quot;&gt;***&lt;/code&gt;, or underscores &lt;code class=&quot;highlighter-rouge&quot;&gt;___&lt;/code&gt;:&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h4 id=&quot;useful-resources&quot;&gt;Useful Resources&lt;/h4&gt;
-
-&lt;p&gt;More information on Markdown can be found at the following links:&lt;/p&gt;
+&lt;p&gt;When you take a step back from the history books, you realize that the Medieval Ages and the Roman Empire wasn’t exactly a time of simplicity and Shakespearean plays. Let’s look at some statistics about war and violence over the past few hundred years:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#code&quot;&gt;Markdown Here Cheatsheet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html&quot;&gt;Quick Markdown Example&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://daringfireball.net/projects/markdown/basics&quot;&gt;Markdown Basics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.github.com/gfm/&quot;&gt;GitHub Flavoured Markdown Spec&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists&quot;&gt;Basic writing and formatting syntax&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Paul Le</name></author><category term="documentation" /><category term="sample" /><summary type="html">Markdown Support</summary></entry><entry><title type="html">Text Formatting Examples</title><link href="http://localhost:4000/journal/text-formatting-examples0.html" rel="alternate" type="text/html" title="Text Formatting Examples" /><published>2014-01-01T00:00:00-05:00</published><updated>2014-01-01T00:00:00-05:00</updated><id>http://localhost:4000/journal/text-formatting-examples0</id><content type="html" xml:base="http://localhost:4000/journal/text-formatting-examples0.html">&lt;h4 id=&quot;markdown-support&quot;&gt;Markdown Support&lt;/h4&gt;
-
-&lt;p&gt;As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Markdown syntax&lt;/a&gt;. Examples of these text formatting features can be seen below. You can find this post in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory.&lt;/p&gt;
-
-&lt;h4 id=&quot;basic-formatting&quot;&gt;Basic Formatting&lt;/h4&gt;
-
-&lt;p&gt;With Markdown, it is possible to emphasize words by making them &lt;em&gt;italicized&lt;/em&gt;, using &lt;em&gt;astericks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;, or making them &lt;strong&gt;bold&lt;/strong&gt;, using &lt;strong&gt;double astericks&lt;/strong&gt; or &lt;strong&gt;double underscores&lt;/strong&gt;. Of course, you can combine those two formats, with both &lt;em&gt;&lt;strong&gt;bold and italicized&lt;/strong&gt;&lt;/em&gt; text, using any combination of the above syntax. You can also add a strikethrough to text using a &lt;del&gt;double tilde&lt;/del&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;paragraphs&quot;&gt;Paragraphs&lt;/h4&gt;
-
-&lt;p&gt;This is what a paragraph looks like. For the purpose of demonstration, the rest of this paragraph and the next paragraph after will mean absolutely nothing. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
-
-&lt;h4 id=&quot;headings&quot;&gt;Headings&lt;/h4&gt;
-
-&lt;p&gt;Sometimes it is useful to have different levels of headings to structure your documents. Start lines with &lt;code class=&quot;highlighter-rouge&quot;&gt;#&lt;/code&gt; to create headings. Multiple &lt;code class=&quot;highlighter-rouge&quot;&gt;##&lt;/code&gt; in a row denote smaller heading size. The following demonstrate the full range of heading sizes:&lt;/p&gt;
-
-&lt;h1 id=&quot;heading-one-h1&quot;&gt;Heading One (h1)&lt;/h1&gt;
-
-&lt;h2 id=&quot;heading-two-h2&quot;&gt;Heading Two (h2)&lt;/h2&gt;
-
-&lt;h3 id=&quot;heading-three-h3&quot;&gt;Heading Three (h3)&lt;/h3&gt;
-
-&lt;h4 id=&quot;heading-four-h4&quot;&gt;Heading Four (h4)&lt;/h4&gt;
-
-&lt;h5 id=&quot;heading-five-h5&quot;&gt;Heading Five (h5)&lt;/h5&gt;
-
-&lt;h6 id=&quot;heading-six-h6&quot;&gt;Heading Six (h6)&lt;/h6&gt;
-
-&lt;h4 id=&quot;links&quot;&gt;Links&lt;/h4&gt;
-
-&lt;p&gt;You can create an inline link by wrapping link text in square brackets &lt;code class=&quot;highlighter-rouge&quot;&gt;[ ]&lt;/code&gt;, and then wrapping the URL in parentheses &lt;code class=&quot;highlighter-rouge&quot;&gt;( )&lt;/code&gt;. For example, it is very easy to &lt;a href=&quot;http://google.com&quot;&gt;link to Google!&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h4&gt;
-
-&lt;p&gt;Blockquotes are useful for denoting quotes, or highlighting a large block of text. Single line blockquote:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;This quote will change your life.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Multi line blockquote with a cite reference:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;code-and-syntax-highlighting&quot;&gt;Code and Syntax Highlighting&lt;/h4&gt;
-
-&lt;p&gt;Code blocks are part of the Markdown spec, but syntax highlighting isn’t. However, many renderers - like GitHub or most Jekyll themes - support syntax highlighting. Which languages are supported and how those language names should be written will vary from renderer to renderer. You can find the full list of supported programming languages &lt;a href=&quot;https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers&quot;&gt;here&lt;/a&gt;. Also, it is possible to do &lt;code class=&quot;highlighter-rouge&quot;&gt;inline code blocks&lt;/code&gt;, by wrapping the text in ` ` ` quotations.&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;No language indicated, so no syntax highlighting.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;return a + b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-
-&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Another option is to embed your code through &lt;a href=&quot;https://en.support.wordpress.com/gist/&quot;&gt;Gist&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;images&quot;&gt;Images&lt;/h4&gt;
-
-&lt;p&gt;To add an image, use &lt;code class=&quot;highlighter-rouge&quot;&gt;![alt text](&amp;lt;Image url&amp;gt; &quot;Image meta title&quot;)&lt;/code&gt;:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://noirve.com/wp-content/uploads/2013/10/DTTSP_Coffee.jpg&quot; alt=&quot;alt text&quot; title=&quot;Example&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;unordered-and-numbered-lists&quot;&gt;Unordered and Numbered Lists&lt;/h4&gt;
-
-&lt;p&gt;You can make an unordered and nested list by preceding one or more lines of text with &lt;code class=&quot;highlighter-rouge&quot;&gt;-&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;*&lt;/code&gt;, or &lt;code class=&quot;highlighter-rouge&quot;&gt;+&lt;/code&gt;, and indenting sublists. The following lists show the full range of possible list formats.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;List item one
-    &lt;ul&gt;
-      &lt;li&gt;List item one
-        &lt;ul&gt;
-          &lt;li&gt;List item one&lt;/li&gt;
-          &lt;li&gt;List item two&lt;/li&gt;
-          &lt;li&gt;List item three&lt;/li&gt;
-          &lt;li&gt;List item four&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;List item two&lt;/li&gt;
-      &lt;li&gt;List item three&lt;/li&gt;
-      &lt;li&gt;List item four&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;List item two&lt;/li&gt;
-  &lt;li&gt;List item three&lt;/li&gt;
-  &lt;li&gt;List item four&lt;/li&gt;
+  &lt;li&gt;In the 1340s, the homicide rate was around 110 per 100,000 (as of 2013, in the UK it is around 1 per 100,000) [4]&lt;/li&gt;
+  &lt;li&gt;108 million people died in the 20th century due to wars [5]&lt;/li&gt;
+  &lt;li&gt;The ‘Great Powers’ fought one another almost all the time during the 1500s, leading to an inconceivable amount of destruction due to warfare (as seen in the chart below) [6]&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Numbered lists are made by using numbers instead of bullet points.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/warchart.png&quot; alt=&quot;alt text&quot; title=&quot;Image&quot; /&gt;&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;List item one
-    &lt;ol&gt;
-      &lt;li&gt;List item one
-        &lt;ol&gt;
-          &lt;li&gt;List item one&lt;/li&gt;
-          &lt;li&gt;List item two&lt;/li&gt;
-          &lt;li&gt;List item three&lt;/li&gt;
-          &lt;li&gt;List item four&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;List item two&lt;/li&gt;
-      &lt;li&gt;List item three&lt;/li&gt;
-      &lt;li&gt;List item four&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;List item two&lt;/li&gt;
-  &lt;li&gt;List item three&lt;/li&gt;
-  &lt;li&gt;List item four&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;A natural question that stems from these statistics is why do humans commit these acts? Humans in the past have not only colonized/enslaved other humans for power/economic purposes, they have also savagely tortured other humans, which seems excessive in hindsight.&lt;/p&gt;
 
-&lt;h4 id=&quot;mathjax-example&quot;&gt;MathJax Example&lt;/h4&gt;
+&lt;p&gt;Why do humans commit these violent acts?&lt;/p&gt;
 
-&lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation&quot;&gt;Schrödinger equation&lt;/a&gt; is a partial differential equation that describes how the quantum state of a quantum system changes with time:&lt;/p&gt;
+&lt;p&gt;It may be helpful to first understand why humans differentiate between “us” and “them.”&lt;/p&gt;
 
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t)&lt;/script&gt;
+&lt;h2 id=&quot;us-vs-them-mentality&quot;&gt;Us vs. Them Mentality&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Joseph-Louis_Millennial&quot;&gt;Joseph-Louis Millennial&lt;/a&gt; was an Italian mathematician and astronomer who was responsible for the formulation of Lagrangian mechanics, which is a reformulation of Newtonian mechanics.&lt;/p&gt;
+&lt;p&gt;Humans are hard-wired to group things, and we are able to do so with incredible efficiency. Millions of years of evolution has allowed us to be able to group another human into a given category in less than 170 thousandth of a second [7]. This “Us vs. Them” mentality exists everywhere today as well, from sports to caste systems and the wealth divide.&lt;/p&gt;
 
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;\frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac {\partial  L}{\partial \dot{q}_j} \right ) =  \frac {\partial L}{\partial q_j}&lt;/script&gt;
+&lt;p&gt;There have been studies done to extensively study how the human brain groups other humans and why it does so. “How people classify and identify individuals from other races [or cultures] likely influences their relationships, and such classification can contribute to stereotyping” [8].&lt;/p&gt;
 
-&lt;h4 id=&quot;tables&quot;&gt;Tables&lt;/h4&gt;
+&lt;p&gt;For example, in some studies, flashing a picture of a different race has resulted in the activation of the amygdala and less activation in the fusiform cortex [8]. In other words, humans in these studies were automatically more threatened by humans of a different race, and more interestingly, &lt;strong&gt;did not remember their faces as accurately as compared to humans of their own race&lt;/strong&gt;. The hormone oxytocin can provide a clue into how exactly the brain develops this grouping. Oxytocin prompts humans to be more trusting and generous with certain members of the same group, but when it comes to people outside of the defined group, it does the opposite [9]. Overall, the root of the “Us vs. Them” phenomenon lies in how fast the brain groups people who are “different” and how it rationalizes these differences by associating positive traits with people from the same group.&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Title 1&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Title 2&lt;/th&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Title 3&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Title 4&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;lorem ipsum&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;lorem ipsum dolor&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;p&gt;This naturally raises the next question: why do humans want their own group to be better than the other groups? The answer is likely multi-fold, but a clue can be found in how we view power.&lt;/p&gt;
 
-&lt;h4 id=&quot;embedding&quot;&gt;Embedding&lt;/h4&gt;
+&lt;p&gt;The brain is neurochemically programmed, through evolution, to seek pleasure. This is accomplished through a neurotransmitter called dopamine. There are two parts of the brain that produce dopamine. One area, called the subtantia nigra helps humans with movement and speech. The more relevant for this article is dopamine produced in the other region, the ventral tegmental area. An image of the brain with these two areas is highlighted below [9,10]:&lt;/p&gt;
 
-&lt;p&gt;Plenty of social media sites offer the option of embedding certain parts of their site on your own site, such as YouTube and Twitter:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/brain.png&quot; alt=&quot;alt text&quot; title=&quot;Image&quot; /&gt;&lt;/p&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mthtn1X4eUY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;This area sends dopamine into the brain when we expect or receive a reward, and this tells the brain to get more of whatever it is it just experienced. This process effectively drives the behavior of humans to continuously keep doing a certain task. Dopamine is what is released in large quantities when humans intake drugs, such as cocaine, nicotine, and heroin, which keeps them coming back for more. Even though drugs may be harmful for the individual in the long-term, the strength of this reward system can lead to drug addiction [11].&lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;twitter-grid&quot; data-partner=&quot;tweetdeck&quot; href=&quot;https://twitter.com/paululele/timelines/755079130027352064&quot;&gt;New Collection&lt;/a&gt; &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Power, which we can define as the control of resources, has material effects on the human brain, and has been a topic of psychological and neurobiological research. Pamela Smith at Radbound University studied the effect of wielding power on the cognitive function by making some people in the study temporarily powerful (superiors) and others temporarily powerless (subordinates). Firstly, both groups were made to do certain abstract tests, and the “subordinates” performed significantly worse while the individuals who were told they were in power were more creative and performed much better. On an emotional level, people who were told they were powerless had lower testosterone and higher levels of stress, indicated through cortisol, while the “superior” group had the opposite effects [12]. Another researcher, Sukhvinder Obhi (McMaster University), noted that after putting the brains of people who “felt” more powerful under a &lt;a href=&quot;https://www.mayoclinic.org/tests-procedures/transcranial-magnetic-stimulation/about/pac-20384625#:~:text=Transcranial%20magnetic%20stimulation%20(TMS)%20is,treatments%20haven't%20been%20effective.&quot;&gt;transcranial-magnetic-stimulation&lt;/a&gt; machine, he found that specific neural processes related to &lt;strong&gt;empathy&lt;/strong&gt; were impaired [13].&lt;/p&gt;
 
-&lt;h4 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h4&gt;
+&lt;p&gt;Now that we have a preliminary understanding of why humans group “us” versus “them” and what power does to the brain,  what is the trigger between competing with “out-groups” and actually committing an act of violence versus them? To uncover a possible answer, we must delve deeper into empathy’s role.&lt;/p&gt;
 
-&lt;p&gt;HTML defines a long list of available inline tags, which you can mix with Markdown if you like. A complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;empathy&quot;&gt;Empathy&lt;/h3&gt;
 
-&lt;h4 id=&quot;horizontal-rule&quot;&gt;Horizontal Rule&lt;/h4&gt;
+&lt;p&gt;An intuitive understanding of empathy may lead us to believe that whenever we see someone else in distress, humans automatically experience some sort of empathy (i.e. seeing a picture of starving people in an impoverished country). Unfortunately, recent research suggests “people frequently fail to empathize to the same extent with out-group members as in-group members” [14]. For example, White participants (in studies) felt greater empathy for White criminal defendants, and also were in favor of assigning less punitive punishments for them, and felt the opposite for Black criminal defendants. When it comes to pain, participants of another study felt greater empathy for an in-group member’s hand being pricked by a pin (as evidenced by sensorimotor response) compared to when they viewed an out-group member’s hand being pricked. Even worse, some studies even showed that members of a certain group felt &lt;strong&gt;pleasure&lt;/strong&gt; (increased &lt;a href=&quot;https://www.sciencedirect.com/topics/neuroscience/ventral-striatum&quot;&gt;ventral striatum&lt;/a&gt; activity, which is part of the dopaminergic system) in response to others’ pain and these members were also &lt;strong&gt;more likely to actively harm the out-group members.&lt;/strong&gt; It is important to note that there needs to be further research done in this area of neuroscience to form any conclusions, as there is also research that conflicts with some of the above findings. For example, a study from Michigan University noted that simply stating that humans feel more empathy for in-group members and less empathy for out-group members is not entirely true, and that prior stereotypes matter [15].&lt;/p&gt;
 
-&lt;p&gt;Can be created by having three or more hyphens &lt;code class=&quot;highlighter-rouge&quot;&gt;---&lt;/code&gt;, asterisks &lt;code class=&quot;highlighter-rouge&quot;&gt;***&lt;/code&gt;, or underscores &lt;code class=&quot;highlighter-rouge&quot;&gt;___&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;Another reason why humans are capable of committing violence against out-group members may have to do with how the brain perceives disgust. As noted in one research article from Nagoya University [16]:&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;“Indeed, the insula is activated by a broad range of disgust-related stimuli such as disgusted facial expressions, unpleasant odors, pictures of rotten food, and unfair acts.”&lt;/p&gt;
 
-&lt;h4 id=&quot;useful-resources&quot;&gt;Useful Resources&lt;/h4&gt;
+&lt;p&gt;From an evolutionary perspective, this response may have protected our ancestors from eating poisonous or harmful foods, however it may also be involved with racial prejudice. The following is an except from a paper published in 2015 [17]:&lt;/p&gt;
 
-&lt;p&gt;More information on Markdown can be found at the following links:&lt;/p&gt;
+&lt;p&gt;“Here, we examined the neural basis of disgust perception in racial prejudice using a passive viewing task and functional magnetic resonance imaging. We found that compared with the disgusted faces of in‐groups, the disgusted faces of out‐groups result in increased amygdala and insular engagement, positive coupling of the insula with amygdala‐based emotional system, and negative coupling of the insula with anterior cingulate cortex (ACC)‐based regulatory system. Furthermore, machine‐learning algorithms revealed that the level of implicit racial prejudice could be predicted by functional couplings of the insula with both the amygdala and the ACC, which suggests that the insula is largely involved in racially biased disgust perception through two distinct neural circuits. In addition, individual difference in disgust sensitivity was found to be predictive of implicit racial prejudice. &lt;strong&gt;Taken together, our results suggest a crucial role of insula‐centered circuits for disgust perception in racial prejudice&lt;/strong&gt;.”&lt;/p&gt;
+
+&lt;p&gt;In other words, if an individual is racially prejudiced, based on the studies mentioned, they may look at other races with more “disgust.”&lt;/p&gt;
+
+&lt;p&gt;Overall, once the brain has grouped “us” versus “them,” it develops certain associations with which leads to it feeling less empathetic (either due to grouping or due to power) and more disgust for out-group members, all of which are possible reasons why humans make the leap from simple classification of others to committing acts of violence against them.&lt;/p&gt;
+
+&lt;h2 id=&quot;has-violence-decreased-overtime&quot;&gt;Has violence decreased overtime?&lt;/h2&gt;
+
+&lt;p&gt;In the cavemen days, the humans who were more threatening to other humans probably survived, but in recent centuries humans have figured out a way to coexist with others.&lt;/p&gt;
+
+&lt;p&gt;If the ability to be violent to others is a fundamental human trait, it should exist at similar rates overtime, right? Interestingly, violence has decreased substantially over the past few centuries. Specifically, homicide rates were around 110 per 100,000 in 14th century Oxford and Florence, and per recent data from the UN (2018) the rate has fallen to 3 per 100,000 in Europe [18] [19]. Even after taking into account the possible data issues, it is clear that homicide rates were significantly higher just a few hundred years ago compared to modern day.&lt;/p&gt;
+
+&lt;p&gt;Have humans suddenly become inherently less violent? Unlikely, since evolution takes much longer to have an effect on population characteristics. Historians have theorized the following reasons:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#code&quot;&gt;Markdown Here Cheatsheet&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html&quot;&gt;Quick Markdown Example&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://daringfireball.net/projects/markdown/basics&quot;&gt;Markdown Basics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.github.com/gfm/&quot;&gt;GitHub Flavoured Markdown Spec&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists&quot;&gt;Basic writing and formatting syntax&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Paul Le</name></author><category term="documentation" /><category term="sample" /><summary type="html">Markdown Support</summary></entry><entry><title type="html">Learning Resources</title><link href="http://localhost:4000/journal/learning-resources.html" rel="alternate" type="text/html" title="Learning Resources" /><published>2013-10-10T00:00:00-04:00</published><updated>2013-10-10T00:00:00-04:00</updated><id>http://localhost:4000/journal/learning-resources</id><content type="html" xml:base="http://localhost:4000/journal/learning-resources.html">&lt;p&gt;The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.&lt;/p&gt;
+  &lt;li&gt;The “erosion of family, tribe, tradition, and religion” by the “forces of individualism, cosmopolitanism, reason, and science” contributed to the decline in rates of interpersonal violence in western societies&lt;/li&gt;
+  &lt;li&gt;Greater state intervention and a wider process of social disciplining, often driven by church bodies, new work practices, and the expansion in the number of schools have also been credited with contributing to a diminution in violent activity among individuals&lt;/li&gt;
+  &lt;li&gt;Widespread use of criminal courts to resolve disputes&lt;/li&gt;
+  &lt;li&gt;Introduction of police force&lt;/li&gt;
+  &lt;li&gt;Introduction of criminalization of violence&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;h3 id=&quot;free-code-camp&quot;&gt;&lt;a href=&quot;https://www.freecodecamp.org/&quot;&gt;Free Code Camp&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Many of these reasons are outlined in the “self-domestication hypothesis” which states that humans have “gone through a process of selection against aggression” overtime [20].&lt;/p&gt;
 
-&lt;p&gt;My personal favourite for learning full stack web development. They offer a great front and back end curriculum that requires you to complete a variety of projects in order to apply the knowledge that you learn during the lessons. As a bonus, at the end of the curriculum you will have a few impressive projects under your belt for your portfolio.&lt;/p&gt;
+&lt;p&gt;This theory is used by many as a reason why humans have become less violent overtime, but does this mean that humans as a society have the potential to become “less domesticated” as well, and therefore more violent in the future?&lt;/p&gt;
 
-&lt;h3 id=&quot;codecademy&quot;&gt;&lt;a href=&quot;https://www.codecademy.com/&quot;&gt;Codecademy&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;is-the-fate-of-humanity-sealed&quot;&gt;Is the fate of humanity sealed?&lt;/h3&gt;
 
-&lt;p&gt;Not only does Codecademy have many great courses on various web development languages such as &lt;a href=&quot;https://www.codecademy.com/learn/learn-html&quot;&gt;HTML&lt;/a&gt;, &lt;a href=&quot;https://www.codecademy.com/learn/learn-css&quot;&gt;CSS&lt;/a&gt;, and &lt;a href=&quot;https://www.codecademy.com/learn/introduction-to-javascript&quot;&gt;JavaScript&lt;/a&gt;, but they even offer a course on &lt;a href=&quot;https://www.codecademy.com/learn/deploy-a-website&quot;&gt;how to deploy a Jekyll site&lt;/a&gt;. If you are completely new to Jekyll, I would recommend working through that course as a great start for learning how to deploy your Jekyll site.&lt;/p&gt;
+&lt;p&gt;In The Dark Knight Rises, Joker has a monologue which happens when he is being interrogated by Batman. Joker says the following to Batman:&lt;/p&gt;
 
-&lt;h3 id=&quot;khan-academy&quot;&gt;&lt;a href=&quot;https://www.khanacademy.org/&quot;&gt;Khan Academy&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;“[…] When the chips are down, these… these civilized people, they’ll eat each other. See, I’m not a monster. I’m just ahead of the curve.”&lt;/p&gt;
 
-&lt;p&gt;A great resource not only for learning mathematics (what most people probably know Khan Academy for), but also &lt;a href=&quot;https://www.khanacademy.org/computing/computer-programming&quot;&gt;computer programming&lt;/a&gt;. What Khan Academy offers that is different from the other two above resources is that it offers courses in &lt;a href=&quot;https://www.khanacademy.org/computing/computer-science&quot;&gt;computer science related&lt;/a&gt; topics, such as &lt;a href=&quot;https://www.khanacademy.org/computing/computer-science/algorithms&quot;&gt;algorithms&lt;/a&gt; and &lt;a href=&quot;https://www.khanacademy.org/computing/computer-science/cryptography&quot;&gt;cryptography&lt;/a&gt;. This is unique in that most online resources mostly focus on the programming side of things.&lt;/p&gt;</content><author><name>Paul Le</name></author><category term="documentation" /><category term="sample" /><summary type="html">The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.</summary></entry></feed>
+&lt;p&gt;It is entirely possible that economic collapses (such as what drove Germany into autocracy after WWI) or other catastrophic events (climate change, nuclear warfare, deadly virus) can unravel the “domestication” of humans (more political and social instability). These events can then likely lead to acts driven by primal instincts (to survive) and driven by dopamine, such as voting a dictator in a democratic country that promises to solve the problems. The question is whether this is inevitable.&lt;/p&gt;
+
+&lt;p&gt;The answer lies in the way humans view justice and morals. According to various studies, humans are generally motivated to strive for justice (from an early age), want other people to be treated fairly, and are driven to treat others fairly [21]. However, humans can be exploited through messaging, and there are many experiences where humans feel empathetic towards “in-group” members and treat “others” as immoral and unjust. The importance of messaging means that it may be possible to influence humans to solve a problem without violence. For example, Mahatma Gandhi led the non-violent independence movement against the British in India. He was a driving force in India’s independence, but did it by conducting boycotts against British products/services and by opposing legal doctrine such as the Salt Act (which made it illegal for Indians to produce and sell salt). Through his actions, he was imprisoned twice by the British government, along with many thousands of supporters who were also imprisoned.&lt;/p&gt;
+
+&lt;p&gt;Similarly, Martin Luther King led the Civil Rights movement in the United States and fought for the rights of African Americans. MLK wanted to also lead a non-violent movement, which meant doing things like travelling over 6 million miles and giving around 2500 speeches across the country. However, MLK’s story also proves that it is possible for humans to unite against injustice caused by “others” without becoming violent. It is a struggle, clearly, since both Mahatma Gandhi and Martin Luther King were assassinated, but it allows the opportunity for humanity to progress without continuing the cycle of violence.&lt;/p&gt;
+
+&lt;h3 id=&quot;capitalisms-role-in-reducing-violence&quot;&gt;Capitalism’s role in reducing violence&lt;/h3&gt;
+
+&lt;p&gt;Ever since we have ‘self-domesticated’ ourselves, society has taught us (through schooling and culture) to use negative emotions against “others” in ways that benefit society through competition. If a group of people (a company) has negative feelings against another company or they want the other company’s resources, they have to either acquire them or do better than them (better product for consumers). In the past a group of people (a tribe, for example) would use warfare if they didn’t like another tribe (out-group) or if they wanted their resources. A positive outcome of the current system is that it allows humans to channel their emotions in a positive way which, in the case of a corporation, is a win for the person who owns the company (owns equity), the customers (new products/services), the government (collects taxes), venture capitalists (shareholders), and employees (jobs, income, growth potential).&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion-and-discussion&quot;&gt;Conclusion and discussion&lt;/h2&gt;
+
+&lt;p&gt;Overall, the acts of violence that humans committed in the past against other humans were predictable, in a sense, due to how the brain is hard-wired through millions of years of evolution. On the bright side, however, in a short period of time (few hundred years), humans have managed to structure a society where systems such as the rule of law have allowed for “self-domestication” and therefore reduced inter-group violence. Moving forward, there needs to be continued education in schools about morality to reduce stereotypes against other groups (i.e. other races), and global institutions must remain strong to avoid societal collapse in response to events such as COVID-19 and economic recessions.&lt;/p&gt;
+
+&lt;h2 id=&quot;citations&quot;&gt;&lt;strong&gt;Citations&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;[1] Image from &lt;a href=&quot;https://www.bbc.com/news/health-11075437&quot;&gt;https://www.bbc.com/news/health-11075437&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[2] Image from &lt;a href=&quot;https://www.lifestyleasia.com/sg/living/property-interiors/futuristic-city-singapores-skyline-changed-past-decade/&quot;&gt;https://www.lifestyleasia.com/sg/living/property-interiors/futuristic-city-singapores-skyline-changed-past-decade/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[3] &lt;a href=&quot;https://medium.com/starts-with-a-bang/this-is-why-december-31-is-the-cosmic-calendars-most-important-date-fc4893b310d6&quot;&gt;https://medium.com/starts-with-a-bang/this-is-why-december-31-is-the-cosmic-calendars-most-important-date-fc4893b310d6&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[4] &lt;a href=&quot;https://www.nytimes.com/1994/10/23/us/historical-study-of-homicide-and-cities-surprises-the-experts.html&quot;&gt;https://www.nytimes.com/1994/10/23/us/historical-study-of-homicide-and-cities-surprises-the-experts.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[5] &lt;a href=&quot;https://www.nytimes.com/2003/07/06/books/chapters/what-every-person-should-know-about-war.html&quot;&gt;https://www.nytimes.com/2003/07/06/books/chapters/what-every-person-should-know-about-war.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[6] &lt;a href=&quot;https://ourworldindata.org/war-and-peace&quot;&gt;https://ourworldindata.org/war-and-peace&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[7] &lt;a href=&quot;https://www.weforum.org/agenda/2016/10/us-versus-them-how-neurophilosophy-explains-populism-racism-and-extremism/&quot;&gt;https://www.weforum.org/agenda/2016/10/us-versus-them-how-neurophilosophy-explains-populism-racism-and-extremism/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[8] &lt;a href=&quot;https://web.stanford.edu/~eberhard/downloads/200108-DifferentialResponses.pdf&quot;&gt;https://web.stanford.edu/~eberhard/downloads/200108-DifferentialResponses.pdf&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[9] &lt;a href=&quot;https://www.sciencenewsforstudents.org/article/explainer-what-dopamine&quot;&gt;https://www.sciencenewsforstudents.org/article/explainer-what-dopamine&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[10] &lt;a href=&quot;https://www.nature.com/articles/nature03701#:~:text=Research%20in%20non%2Dhuman%20mammals,obstacles%20such%20as%20betrayal%20aversion&quot;&gt;https://www.nature.com/articles/nature03701#:~:text=Research in non-human mammals,obstacles such as betrayal aversion&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;[11] &lt;a href=&quot;https://www.axolbio.com/blog/as-strong-as-the-weakest-link&quot;&gt;https://www.axolbio.com/blog/as-strong-as-the-weakest-link&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[12] &lt;a href=&quot;https://thepsychologist.bps.org.uk/volume-26/edition-3/how-power-affects-brain&quot;&gt;https://thepsychologist.bps.org.uk/volume-26/edition-3/how-power-affects-brain&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[13] &lt;a href=&quot;https://www.theatlantic.com/magazine/archive/2017/07/power-causes-brain-damage/528711/&quot;&gt;https://www.theatlantic.com/magazine/archive/2017/07/power-causes-brain-damage/528711/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[14] &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792561/&quot;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3792561/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[15] Ibid.&lt;/p&gt;
+
+&lt;p&gt;[16] &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/21921543/&quot;&gt;https://pubmed.ncbi.nlm.nih.gov/21921543/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[17] &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/26417673/&quot;&gt;https://pubmed.ncbi.nlm.nih.gov/26417673/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[18] &lt;a href=&quot;https://www.nytimes.com/1994/10/23/us/historical-study-of-homicide-and-cities-surprises-the-experts.html&quot;&gt;https://www.nytimes.com/1994/10/23/us/historical-study-of-homicide-and-cities-surprises-the-experts.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[19] &lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_countries_by_intentional_homicide_rate#By_region&quot;&gt;https://en.wikipedia.org/wiki/List_of_countries_by_intentional_homicide_rate#By_region&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[20] &lt;a href=&quot;https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00134/full&quot;&gt;https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00134/full&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;[21] &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4748844/&quot;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4748844/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6372234/&quot;&gt;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6372234/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.newscientist.com/article/dn16256-justice-may-be-hard-wired-into-the-human-brain/&quot;&gt;https://www.newscientist.com/article/dn16256-justice-may-be-hard-wired-into-the-human-brain&lt;/a&gt;&lt;/p&gt;</content><author><name>site.author</name></author><summary type="html">Us vs. Them - A Neuroscience Perspective</summary></entry></feed>
